@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>我的数据仪表盘</title>
+</head>
+<body>
+  <h1>实时数据表</h1>
+  <!-- 嵌入 Google Sheets -->
+  <iframe 
+     src="https://docs.google.com/spreadsheets/d/e/YOUR_PUBLISHED_LINK/pubhtml?widget=true&amp;headers=false"
+     width="100%" height="600"></iframe>
+</body>
+</html>
